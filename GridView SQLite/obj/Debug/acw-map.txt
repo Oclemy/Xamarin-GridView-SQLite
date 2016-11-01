@@ -1,0 +1,8 @@
+GridView_SQLite.MainActivity, GridView SQLite;md5308c36ab2e3ff560cd0c7a2cd95b1f21.MainActivity
+GridView_SQLite.MainActivity, GridView SQLite, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5308c36ab2e3ff560cd0c7a2cd95b1f21.MainActivity
+GridView_SQLite.MainActivity;md5308c36ab2e3ff560cd0c7a2cd95b1f21.MainActivity
+gridview_sqlite.MainActivity;md5308c36ab2e3ff560cd0c7a2cd95b1f21.MainActivity
+GridView_SQLite.mDatabase.DBHelper, GridView SQLite;md5743455b8ca020a36baf62ecce18c45e6.DBHelper
+GridView_SQLite.mDatabase.DBHelper, GridView SQLite, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5743455b8ca020a36baf62ecce18c45e6.DBHelper
+GridView_SQLite.mDatabase.DBHelper;md5743455b8ca020a36baf62ecce18c45e6.DBHelper
+gridview_sqlite.mdatabase.DBHelper;md5743455b8ca020a36baf62ecce18c45e6.DBHelper
